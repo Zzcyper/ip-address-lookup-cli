@@ -1,15 +1,12 @@
-> Findmyip With Python
-                                
-> By Z_zcyper 
+# IP Address Lookup CLI
 
-- Update Log
-  - Modern UI
-  - Change Color to Black
+A modern Python IP lookup application built with **CustomTkinter**.  
+It allows users to quickly check their public IP address, local IP address, geolocation, ISP, organization, timezone, and coordinates through a clean dark-themed desktop interface.
 
-- The "findmyip" project is a simple Python application that allows you to quickly retrieve your public IP address. It   
-provides a straightforward way to obtain your IP address without the need for manual lookup.
+## Preview
 
-- How it works
-- When you run the "findmyip" application, it makes an HTTP request to a public IP address API. The API responds with your  
-public IP address, which is then displayed on the screen.
+<img width="442" height="619" alt="image" src="https://github.com/user-attachments/assets/11b982a7-999d-4a4d-adc8-c0b745b5fb0f" />
 
+```txt
+IP Address Lookup
+Geolocation · Network · ISP
